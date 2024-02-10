@@ -79,9 +79,6 @@ a {
 }
 
 img {
-    /* max-width: 700px;
-    max-height: 200px; */
-    /* flex-basis: 200px; */
     width: auto;
     height: 300px;
     flex: 1;
@@ -94,11 +91,9 @@ button,
 
 button {
     border: none;
-    /* text-align: center; */
     width: 130px;
     font-family: Roboto, sans-serif;
     border-radius: 8px;
-    /* background: #eee; */
     padding: 8px 16px;
     font-weight: 600;
 }
